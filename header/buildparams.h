@@ -1,0 +1,2 @@
+#define BUILD_GIT_COMMIT "6bc528cae4fd11b12f08588eb646c33569febd54"
+#define BUILD_GIT_BRANCH "caries"

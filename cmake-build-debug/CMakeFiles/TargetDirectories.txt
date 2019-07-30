@@ -1,0 +1,3 @@
+/Users/bank21235/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bank21235/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bank21235/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir
